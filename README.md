@@ -26,7 +26,7 @@ I choose to simulate an epidemic inside an airport network using the Unity 3D en
 
 **😷 Chance of Cleaning During Lockdown (0 to 1):** increased effectiveness of cleaning measures during a lockdown situation.
 
-**∆T Cleaning Delta T (in days):** time a new cleaning session.
+**∆T Cleaning Delta T (in days):** time before a new cleaning session.
 
 ## Legend 🖼️
 🟦 : clean
@@ -44,7 +44,7 @@ The virus is extremely contagious everyday and cleaning measures are negligeable
 ![](./Assets/Demos/airport_network_epidemic.gif)
 
 # Instructions
-Extract the *airport_network_modeling.zip* file.
+Extract the *airport_network_epidemic.zip* file.
 
 Launch the *Virus_Airport_Network_Simulation.exe* file.
 
