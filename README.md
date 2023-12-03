@@ -15,21 +15,6 @@ I choose to simulate an epidemic inside an airport network using the Unity 3D en
 >You can only access this old project version on GitHub with other added scripts that were only present in the newer lost project.*
 
 # Simulation
-# Usage
-Extract the .zip file.
-
-Launch the .exe file.
-
-Define the parameters you would like.
-
-Click on the start simulation button.
-
-You can click on airports to toggle their lockdown state.
-
-In case the app starts to lag, you can press Spacebar to stop updating the stats graph.
-
-You can close the app any time with the close button.
-
 ## Parameters ⚙️
 **🦠 Chance of Airplane Getting Virus (0 to 1):** probability that an airplane becomes contaminated with the virus.
 
@@ -57,6 +42,21 @@ Here is a *cliché* simulation of an epidemic with 30 connected airports.
 The virus is extremely contagious everyday and cleaning measures are negligeable during an unknown epidemic. When an airport is in lockdown, cleaning measures are taken seriously.
 
 ![](./Assets/Demos/airport_network_epidemic.gif)
+
+# Usage
+Extract the .zip file.
+
+Launch the .exe file.
+
+Define the parameters you would like.
+
+Click on the start simulation button.
+
+You can click on airports to toggle their lockdown state.
+
+In case the app starts to lag, you can press Spacebar to stop updating the stats graph.
+
+You can close the app any time with the close button.
 
 # Acknowledgments
 
