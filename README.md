@@ -1,4 +1,6 @@
 # Airport network epidemic 🦠
+*By Marcus Aas Jensen*
+
 ![](./Assets/Demos/title_demo.gif)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -34,7 +36,7 @@ I choose to simulate an epidemic inside an airport network using the Unity 3D en
 
 ⬛ : airport lockdown
 
-## Demo
+## Demo 🎥
 Here is a *cliché* simulation of an epidemic with 30 connected airports. 
 The virus is extremely contagious everyday and cleaning measures are negligeable during an unknown epidemic. When an airport is in lockdown, cleaning measures are taken seriously.
 
