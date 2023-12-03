@@ -43,10 +43,10 @@ The virus is extremely contagious everyday and cleaning measures are negligeable
 
 ![](./Assets/Demos/airport_network_epidemic.gif)
 
-# Usage
-Extract the .zip file.
+# Instructions
+Extract the *airport_network_modeling.zip* file.
 
-Launch the .exe file.
+Launch the *Virus_Airport_Network_Simulation.exe* file.
 
 Define the parameters you would like.
 
