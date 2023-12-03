@@ -3,6 +3,7 @@
 
 ![](./Assets/Demos/title_demo.gif)
 
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Old school project about modeling an epidemic in the context of the COVID-19 situation. 
